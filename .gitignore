@@ -71,3 +71,6 @@ env.bak/
 venv.bak/
 /.gradle/
 /.vscode/
+
+/dist
+/node_modules
